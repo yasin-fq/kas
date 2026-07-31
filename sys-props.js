@@ -1,26 +1,3 @@
-/**
- * ============================================================
- *  System Properties — Konfigurasi Aplikasi Kasumee Kasir
- * ============================================================
- * 
- *  File ini bisa diedit langsung tanpa rebuild!
- *  Ubah nilai di bawah, simpan file, refresh browser.
- *  Perubahan langsung berlaku.
- * 
- *  Catatan tentang basePath:
- *  basePath tidak bisa diubah di file ini karena Next.js
- *  meng-compile path JS chunks saat build. Untuk ganti
- *  basePath, rebuild dengan: BASE_PATH=/kas2 npm run build
- * 
- *  Cara edit:
- *  1. Buka file ini di text editor (Notepad, VS Code, dll)
- *  2. Ubah nilai yang ingin diganti
- *  3. Simpan (Ctrl+S)
- *  4. Refresh browser (Ctrl+Shift+R)
- * 
- * ============================================================
- */
-
 window.SYS_PROPS = {
 
   // ─── KODE AKSES ───────────────────────────────────────────
